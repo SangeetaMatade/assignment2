@@ -1,0 +1,32 @@
+* {
+    margin: 0PX;
+    padding: 0px;
+}
+
+#Task {
+    border: 8px solid;
+    border-color: lightcoral;
+    border-radius: 10%;
+    padding: 15px;
+    margin: auto;
+}
+
+#Task {
+    border: 8px solid;
+    border-color: lightcoral;
+    border-radius: 10%;
+    padding: 15px;
+    margin: auto;
+}
+
+#newreg {
+    border: 8px solid;
+    border-color: lightcoral;
+    border-radius: 10%;
+    padding: 15px;
+    margin: auto;
+}
+
+body {
+    background-color: aqua;
+}
